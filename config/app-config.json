@@ -17,5 +17,9 @@
       "https://la18hd.com/eventos/json/agenda123.json",
       "https://la14hd.com/eventos/json/agenda123.json"
     ]
-  }
+  },
+  "allowedCode":[
+    "Apokdsolod",
+    "cualquiercosa"
+  ]
 }
