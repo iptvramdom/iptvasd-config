@@ -1,0 +1,2 @@
+# iptvasd-config
+domains
