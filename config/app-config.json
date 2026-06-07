@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "urls": {
+    "agenda": "https://la18hd.com/status.json",
+    "calendar": "https://la18hd.com/eventos/json/agenda123.json"
+  },
+  "allowedHosts": [
+    "la18hd.com",
+    "la14hd.com"
+  ],
+  "fallbackUrls": {
+    "agenda": [
+      "https://la18hd.com/status.json",
+      "https://la14hd.com/status.json"
+    ],
+    "calendar": [
+      "https://la18hd.com/eventos/json/agenda123.json",
+      "https://la14hd.com/eventos/json/agenda123.json"
+    ]
+  }
+}
