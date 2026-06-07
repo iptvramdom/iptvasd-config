@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "urls": {
     "agenda": "https://la18hd.com/status.json",
     "calendar": "https://la18hd.com/eventos/json/agenda123.json"
